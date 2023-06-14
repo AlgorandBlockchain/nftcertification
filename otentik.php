@@ -1,0 +1,9 @@
+<?
+
+include("include/globalx.php");
+
+
+
+
+
+?>
